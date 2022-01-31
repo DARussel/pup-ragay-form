@@ -92,7 +92,7 @@ ul{
 @media(min-width:900px){
     .wrapper {
         display: grid;
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr 2fr;
     }
     .wrapper{
         padding: 2em;
